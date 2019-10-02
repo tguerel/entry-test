@@ -21,11 +21,13 @@ Ref Res: 1080 x 720
 * Hover Area that counts times of hover via Text Element (idle)
 
 
-![Screenshot2](img/Screenshot 2019-10-03 at 00.33.41.png)
+![Screenshot1](https://github.com/tguerel/entry-test/blob/master/img/Screenshot%202019-10-03%20at%2000.32.35.png)
 
-![Screenshot3](img/Screenshot 2019-10-03 at 00.33.42.png)
+!![Screenshot2](https://github.com/tguerel/entry-test/blob/master/img/Screenshot%202019-10-03%20at%2000.33.45.png)
 
-![Screenshot4](img/Screenshot 2019-10-03 at 00.33.45.png)
+![Screenshot3](https://github.com/tguerel/entry-test/blob/master/img/Screenshot%202019-10-03%20at%2000.33.41.png)
+
+![Screenshot4](https://github.com/tguerel/entry-test/blob/master/img/Screenshot%202019-10-03%20at%2000.33.42.png)
 
 
 
