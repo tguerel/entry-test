@@ -10,17 +10,17 @@ public class HoverDetect : MonoBehaviour
 
     public void Start()
     {
+        //reset our 1
         hoverCountNumber = 0;
     }
 
     public void CountHover()
 
     {
-        Debug.Log("hovered.");
-
+        //add 1 to our int 
         hoverCountNumber = hoverCountNumber + 1;
-
-        Debug.Log(hoverCountNumber);
+        //set text to our int and convert it to string
+        hoverCountText.text = hoverCountNumber.ToString();
 
     }
 }
