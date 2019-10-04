@@ -18,7 +18,7 @@ Ref Res: 1080 x 720
 
 * On Space press canvas colour should change (done)
 
-* Hover Area that counts times of hover via Text Element (idle)
+* Hover Area that counts times of hover via Text Element (done)
 
 
 ![Screenshot1](https://github.com/tguerel/entry-test/blob/master/img/Screenshot%202019-10-03%20at%2000.32.35.png)
